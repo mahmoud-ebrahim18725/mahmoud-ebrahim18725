@@ -24,6 +24,8 @@ Next.js · TypeScript · PostgreSQL · Prisma · Tailwind CSS · Zod · Vitest �
 
 A React 19 supermarket storefront with filters, product pages and a persistent cart, built with `useReducer` + Context and custom hooks.
 
+🔗 [Live demo](https://freshcart-hazel.vercel.app) · 📂 [Code](https://github.com/mahmoud-ebrahim18725/freshcart) · _learning project_
+
 ---
 
 ### 🛠️ Tech stack
